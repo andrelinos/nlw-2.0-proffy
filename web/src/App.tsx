@@ -2,8 +2,8 @@ import React from 'react';
 
 import Routes from './routes';
 
-// import './assets/styles/light.css';
-import './assets/styles/dark.css';
+import './assets/styles/light.css';
+// import './assets/styles/dark.css';
 
 function App() {
   return (
