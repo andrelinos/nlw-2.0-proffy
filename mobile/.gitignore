@@ -13,4 +13,4 @@ web-build/
 .DS_Store
 
 yarn.lock
-
+yarn*.log
