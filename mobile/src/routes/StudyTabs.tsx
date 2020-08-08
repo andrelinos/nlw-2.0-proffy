@@ -14,7 +14,7 @@ const StudyTabs: React.FC = () => {
       style: {
         elevation: 0,
         shadowOpacity: 0,
-        height: 64,
+        height: 60,
       },
       tabStyle: {
         flexDirection: 'row',

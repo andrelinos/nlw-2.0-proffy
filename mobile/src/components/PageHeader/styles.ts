@@ -12,13 +12,20 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 
+  header: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+
   title: {
     maxWidth: 160,
     fontFamily: 'Archivo_700Bold',
     color: '#fff',
     fontSize: 24,
     lineHeight: 32,
-    marginVertical: 40,
+    marginTop: 10,
+    marginBottom: 10,
   }
 });
 
