@@ -82,11 +82,6 @@ $ yarn install  or npm install
 $ yarn start or npm run start
 ```
 
-# :closed_book: Licença
-
-Criado por [Andrelino Silva](https://github.com/andrelinos) 🚀 na NWL-2.0 por @Rocketseat
-Licença do projeto: [MIT license](LICENSE).
-
 ## Página inicial
 
 ![Landing page](screen-web-landing.png)
@@ -98,3 +93,11 @@ Licença do projeto: [MIT license](LICENSE).
 
 ## Responsividade
 ![Study page](ambos.png)
+
+
+# :closed_book: Licença
+
+Criado por [Andrelino Silva](https://github.com/andrelinos) 🚀 na NWL-2.0 por [Rocketseat](https://github.com/rocketseat)
+Licença do projeto: [MIT license](LICENSE).
+
+Dê uma ⭐️ se esse projeto te ajudou você!
